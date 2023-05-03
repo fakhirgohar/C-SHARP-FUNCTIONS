@@ -1,0 +1,30 @@
+E:\Other\OOP\Oop in C#\Oop Practise\Oop Practise\bin\Debug\net6.0\Oop Practise.exe
+E:\Other\OOP\Oop in C#\Oop Practise\Oop Practise\bin\Debug\net6.0\Oop Practise.deps.json
+E:\Other\OOP\Oop in C#\Oop Practise\Oop Practise\bin\Debug\net6.0\Oop Practise.runtimeconfig.json
+E:\Other\OOP\Oop in C#\Oop Practise\Oop Practise\bin\Debug\net6.0\Oop Practise.dll
+E:\Other\OOP\Oop in C#\Oop Practise\Oop Practise\bin\Debug\net6.0\Oop Practise.pdb
+E:\Other\OOP\Oop in C#\Oop Practise\Oop Practise\obj\Debug\net6.0\Oop Practise.csproj.AssemblyReference.cache
+E:\Other\OOP\Oop in C#\Oop Practise\Oop Practise\obj\Debug\net6.0\Oop Practise.GeneratedMSBuildEditorConfig.editorconfig
+E:\Other\OOP\Oop in C#\Oop Practise\Oop Practise\obj\Debug\net6.0\Oop Practise.AssemblyInfoInputs.cache
+E:\Other\OOP\Oop in C#\Oop Practise\Oop Practise\obj\Debug\net6.0\Oop Practise.AssemblyInfo.cs
+E:\Other\OOP\Oop in C#\Oop Practise\Oop Practise\obj\Debug\net6.0\Oop Practise.csproj.CoreCompileInputs.cache
+E:\Other\OOP\Oop in C#\Oop Practise\Oop Practise\obj\Debug\net6.0\Oop Practise.dll
+E:\Other\OOP\Oop in C#\Oop Practise\Oop Practise\obj\Debug\net6.0\refint\Oop Practise.dll
+E:\Other\OOP\Oop in C#\Oop Practise\Oop Practise\obj\Debug\net6.0\Oop Practise.pdb
+E:\Other\OOP\Oop in C#\Oop Practise\Oop Practise\obj\Debug\net6.0\Oop Practise.genruntimeconfig.cache
+E:\Other\OOP\Oop in C#\Oop Practise\Oop Practise\obj\Debug\net6.0\ref\Oop Practise.dll
+E:\Other\C#\Oop Practise\Oop Practise\bin\Debug\net6.0\Oop Practise.exe
+E:\Other\C#\Oop Practise\Oop Practise\bin\Debug\net6.0\Oop Practise.deps.json
+E:\Other\C#\Oop Practise\Oop Practise\bin\Debug\net6.0\Oop Practise.runtimeconfig.json
+E:\Other\C#\Oop Practise\Oop Practise\bin\Debug\net6.0\Oop Practise.dll
+E:\Other\C#\Oop Practise\Oop Practise\bin\Debug\net6.0\Oop Practise.pdb
+E:\Other\C#\Oop Practise\Oop Practise\obj\Debug\net6.0\Oop Practise.csproj.AssemblyReference.cache
+E:\Other\C#\Oop Practise\Oop Practise\obj\Debug\net6.0\Oop Practise.GeneratedMSBuildEditorConfig.editorconfig
+E:\Other\C#\Oop Practise\Oop Practise\obj\Debug\net6.0\Oop Practise.AssemblyInfoInputs.cache
+E:\Other\C#\Oop Practise\Oop Practise\obj\Debug\net6.0\Oop Practise.AssemblyInfo.cs
+E:\Other\C#\Oop Practise\Oop Practise\obj\Debug\net6.0\Oop Practise.csproj.CoreCompileInputs.cache
+E:\Other\C#\Oop Practise\Oop Practise\obj\Debug\net6.0\Oop Practise.dll
+E:\Other\C#\Oop Practise\Oop Practise\obj\Debug\net6.0\refint\Oop Practise.dll
+E:\Other\C#\Oop Practise\Oop Practise\obj\Debug\net6.0\Oop Practise.pdb
+E:\Other\C#\Oop Practise\Oop Practise\obj\Debug\net6.0\Oop Practise.genruntimeconfig.cache
+E:\Other\C#\Oop Practise\Oop Practise\obj\Debug\net6.0\ref\Oop Practise.dll
